@@ -1,0 +1,18 @@
+{
+  "id": 160,
+  "name": "Juliana",
+  "account": {
+    "id": 162,
+    "number": "00004-1",
+    "agency": "0004",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 154,
+    "number": "**** **** **** 1114",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}

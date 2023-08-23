@@ -1,0 +1,18 @@
+{
+  "id": 158,
+  "name": "Mario",
+  "account": {
+    "id": 160,
+    "number": "00002-1",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 152,
+    "number": "**** **** **** 1112",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}

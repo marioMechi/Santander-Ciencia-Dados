@@ -1,0 +1,3366 @@
+[
+  {
+    "id": 5,
+    "name": "Pip",
+    "account": {
+      "id": 8,
+      "number": "00002-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 5,
+      "number": "**** **** **** 2222",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 10,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista hoje para um futuro seguro e estável, Pip. O seu futuro financeiro depende disso!"
+      },
+      {
+        "id": 13,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pip, investir é o caminho para multiplicar seu dinheiro. Vamos fortalecer seu futuro financeiro!"
+      },
+      {
+        "id": 16,
+        "icon": "http://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista hoje, colha amanhã!"
+      },
+      {
+        "id": 19,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pip, investir é o caminho para o futuro financeiro seguro. Vamos modernizar suas finanças!"
+      },
+      {
+        "id": 27,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Olá Pip! Como especialista em marketing bancário, eu te digo: invista no seu futuro! #PipInvestimentos"
+      },
+      {
+        "id": 30,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Oi Pip! Invista seu dinheiro com sabedoria e garanta uma vida financeira mais próspera. Eu, como especialista em marketing bancário, estou aqui para te ajudar! #InvistaComSabedoria"
+      },
+      {
+        "id": 38,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Maximize your potential. Invest wisely with Pip for a secure and prosperous future. #Fintech #Investments"
+      },
+      {
+        "id": 39,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "Hey Pip! Investments are key for financial growth. Let's maximize your potential together! 💰📈 #FinancialGrowth"
+      },
+      {
+        "id": 49,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista seu futuro, Pip!"
+      },
+      {
+        "id": 63,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista hoje para colher amanhã! 💰"
+      },
+      {
+        "id": 65,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Investimentos: potencialize seu futuro financeiro."
+      },
+      {
+        "id": 89,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pip, invista agora para garantir seu amanhã!"
+      },
+      {
+        "id": 90,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pip, invista agora para garantir seu amanhã!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pep",
+    "account": {
+      "id": 9,
+      "number": "00003-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 6,
+      "number": "**** **** **** 3333",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 11,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Oi Pep, investir é a chave para multiplicar seu dinheiro. Não deixe sua grana parada!"
+      },
+      {
+        "id": 14,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, investimentos são a chave para o futuro financeiro. Cresça seu dinheiro, não apenas o guarde!"
+      },
+      {
+        "id": 17,
+        "icon": "http://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista seu dinheiro, expanda suas possibilidades."
+      },
+      {
+        "id": 40,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Hi Pep. Investing is crucial for financial growth. Let's explore the potential together. 📈 #InvestWisely"
+      },
+      {
+        "id": 20,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, invista para criar segurança financeira. Seu futuro agradece!"
+      },
+      {
+        "id": 28,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, @usuario, não deixe seu dinheiro parado, invista e faça ele trabalhar por você! 💰💼 #InvestimentosBancários"
+      },
+      {
+        "id": 31,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Mensagem para Pep: @usuário, invista agora e construa seu futuro financeiro com segurança e rentabilidade. Não deixe o tempo passar! #InvestimentosEssenciais"
+      },
+      {
+        "id": 41,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "Pep, investing is key for financial growth. Let's explore the opportunities together. #fintech"
+      },
+      {
+        "id": 50,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista hoje para prosperar amanhã! 💰"
+      },
+      {
+        "id": 64,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista seu dinheiro hoje e colha os frutos amanhã! #InvestimentosSãoEssenciais"
+      },
+      {
+        "id": 66,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista agora e garanta seu futuro financeiro! #InvestimentosQueRendem"
+      },
+      {
+        "id": 91,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, invista agora para garantir seu amanhã!"
+      },
+      {
+        "id": 92,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Pep, invista agora para garantir seu amanhã!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Akemi",
+    "account": {
+      "id": 11,
+      "number": "00002-02",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 6000
+    },
+    "card": {
+      "id": 8,
+      "number": "**** **** **** 0002",
+      "limit": 12000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 9,
+    "name": "Ayumi",
+    "account": {
+      "id": 12,
+      "number": "00003-03",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 9,
+      "number": "**** **** **** 0003",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 116,
+    "name": "Maria",
+    "account": {
+      "id": 123,
+      "number": "333-5",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 114,
+      "number": "**** **** **** 3456",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 1,
+    "name": "Devweekerson",
+    "account": {
+      "id": 1,
+      "number": "01.097954-4",
+      "agency": "2030",
+      "balance": 624.12,
+      "limit": 1000
+    },
+    "card": {
+      "id": 1,
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 2000
+    },
+    "features": [
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      },
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      }
+    ],
+    "news": [
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 serviços pra você. Confira!"
+      },
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem soluções de crédito sob medida pra você. Confira!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "string",
+    "account": {
+      "id": 17,
+      "number": "string",
+      "agency": "string",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 10,
+      "number": "string",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 7,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 21,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "anguile",
+    "account": {
+      "id": 18,
+      "number": "00010-4",
+      "agency": "2003",
+      "balance": 500,
+      "limit": 1000
+    },
+    "card": {
+      "id": 11,
+      "number": "01123",
+      "limit": 500
+    },
+    "features": [
+      {
+        "id": 8,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 22,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ronaldo",
+    "account": {
+      "id": 19,
+      "number": "00001-4",
+      "agency": "0032",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 12,
+      "number": "**** **** **** 2313",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 9,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 23,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "anguile",
+    "account": {
+      "id": 20,
+      "number": "00010-8",
+      "agency": "2003",
+      "balance": 500,
+      "limit": 1000
+    },
+    "card": {
+      "id": 13,
+      "number": "**** **** **** 0112",
+      "limit": 500
+    },
+    "features": [
+      {
+        "id": 10,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 24,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Maria",
+    "account": {
+      "id": 21,
+      "number": "00110-2",
+      "agency": "2003",
+      "balance": 500,
+      "limit": 1000
+    },
+    "card": {
+      "id": 14,
+      "number": "**** **** **** 0322",
+      "limit": 500
+    },
+    "features": [
+      {
+        "id": 11,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 25,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pyterson",
+    "account": {
+      "id": 22,
+      "number": "0001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 15,
+      "number": "1234 1234 1234 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 51,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista hoje, colha amanhã! #FuturoBrilhante"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pip",
+    "account": {
+      "id": 23,
+      "number": "0002-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 16,
+      "number": "1234 1234 1234 2222",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 17,
+    "name": "Pep",
+    "account": {
+      "id": 24,
+      "number": "0003-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 17,
+      "number": "1234 1234 1234 3333",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 18,
+    "name": "Rides",
+    "account": {
+      "id": 25,
+      "number": "0009-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 18,
+      "number": "**** **** **** 111",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 12,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 32,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Money Trees",
+    "account": {
+      "id": 26,
+      "number": "0008-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 19,
+      "number": "**** **** **** 222",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 13,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 33,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "a lot",
+    "account": {
+      "id": 27,
+      "number": "0007-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 20,
+      "number": "**** **** **** 333",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 14,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 34,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pyterson",
+    "account": {
+      "id": 28,
+      "number": "00012-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 21,
+      "number": "**** **** **** 3232",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 22,
+    "name": "Homero",
+    "account": {
+      "id": 29,
+      "number": "00013-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 1500
+    },
+    "card": {
+      "id": 22,
+      "number": "**** **** **** 6632",
+      "limit": 2000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 23,
+    "name": "Caroline",
+    "account": {
+      "id": 30,
+      "number": "00014-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 700
+    },
+    "card": {
+      "id": 23,
+      "number": "**** **** **** 6677",
+      "limit": 2500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 24,
+    "name": "Mar",
+    "account": {
+      "id": 31,
+      "number": "00015-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 2700
+    },
+    "card": {
+      "id": 24,
+      "number": "**** **** **** 886677",
+      "limit": 3500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 26,
+    "name": "ocean",
+    "account": {
+      "id": 33,
+      "number": "00001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 26,
+      "number": "**** **** **** 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 27,
+    "name": "Predu",
+    "account": {
+      "id": 34,
+      "number": "99999-07",
+      "agency": "0007",
+      "balance": 4000,
+      "limit": 10000
+    },
+    "card": {
+      "id": 27,
+      "number": "**** **** **** 7777",
+      "limit": 10000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 28,
+    "name": "Pamonha",
+    "account": {
+      "id": 35,
+      "number": "100000-08",
+      "agency": "0007",
+      "balance": 4000,
+      "limit": 10000
+    },
+    "card": {
+      "id": 28,
+      "number": "**** **** **** 8888",
+      "limit": 10000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 29,
+    "name": "Faustão",
+    "account": {
+      "id": 36,
+      "number": "100000-09",
+      "agency": "0007",
+      "balance": 4000,
+      "limit": 10000
+    },
+    "card": {
+      "id": 29,
+      "number": "**** **** **** 9999",
+      "limit": 10000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 30,
+    "name": "Ocean",
+    "account": {
+      "id": 37,
+      "number": "10001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 30,
+      "number": "1111 **** **** 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 42,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista para prosperar! #OceanInvestimentos"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Deyla",
+    "account": {
+      "id": 38,
+      "number": "20002-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 31,
+      "number": "2222 **** **** 2222",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 43,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista para um futuro mais seguro e próspero!"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Thanos",
+    "account": {
+      "id": 39,
+      "number": "30003-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 32,
+      "number": "3333 **** **** 3333",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 44,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Thanos, os investimentos fazem seu futuro florescer. #PensandoAlémDoEstalarDeDedos"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ada Shelby",
+    "account": {
+      "id": 40,
+      "number": "0004-4",
+      "agency": "004",
+      "balance": 0,
+      "limit": 400
+    },
+    "card": {
+      "id": 33,
+      "number": "**** **** **** 4444",
+      "limit": 4000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 34,
+    "name": "John Shelby",
+    "account": {
+      "id": 41,
+      "number": "0005-5",
+      "agency": "005",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 34,
+      "number": "**** **** **** 5555",
+      "limit": 5000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 35,
+    "name": "Michael Gray",
+    "account": {
+      "id": 42,
+      "number": "0006-6",
+      "agency": "006",
+      "balance": 0,
+      "limit": 600
+    },
+    "card": {
+      "id": 35,
+      "number": "**** **** **** 6666",
+      "limit": 6000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 36,
+    "name": "jason",
+    "account": {
+      "id": 43,
+      "number": "0010-1",
+      "agency": "2212",
+      "balance": 0,
+      "limit": 12
+    },
+    "card": {
+      "id": 36,
+      "number": "**** **** **** 5005",
+      "limit": 100
+    },
+    "features": [
+      {
+        "id": 15,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 45,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "jason",
+    "account": {
+      "id": 44,
+      "number": "00010-1",
+      "agency": "2212",
+      "balance": 0,
+      "limit": 12
+    },
+    "card": {
+      "id": 37,
+      "number": "**** **** **** 5001",
+      "limit": 100
+    },
+    "features": [
+      {
+        "id": 16,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 46,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Leo",
+    "account": {
+      "id": 45,
+      "number": "00021-1",
+      "agency": "2212",
+      "balance": 0,
+      "limit": 12
+    },
+    "card": {
+      "id": 38,
+      "number": "**** **** **** 5022",
+      "limit": 100
+    },
+    "features": [
+      {
+        "id": 17,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 47,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Bruna",
+    "account": {
+      "id": 46,
+      "number": "00031-1",
+      "agency": "2212",
+      "balance": 0,
+      "limit": 12
+    },
+    "card": {
+      "id": 39,
+      "number": "**** **** **** 5033",
+      "limit": 100
+    },
+    "features": [
+      {
+        "id": 18,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 48,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Mary",
+    "account": {
+      "id": 47,
+      "number": "0000-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 40,
+      "number": "**** **** **** 2424",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 41,
+    "name": "Joshua",
+    "account": {
+      "id": 48,
+      "number": "0000-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 41,
+      "number": "**** **** **** 8989",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 42,
+    "name": "Paul",
+    "account": {
+      "id": 49,
+      "number": "0000-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 42,
+      "number": "**** **** **** 0606",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 43,
+    "name": "string",
+    "account": {
+      "id": 50,
+      "number": "0001",
+      "agency": "1221",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 43,
+      "number": "*** **** **** 0001",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 44,
+    "name": "Pegasus",
+    "account": {
+      "id": 51,
+      "number": "0002",
+      "agency": "1221",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 44,
+      "number": "*** **** **** 0002",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 45,
+    "name": "Jaspion",
+    "account": {
+      "id": 52,
+      "number": "0003",
+      "agency": "1221",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 45,
+      "number": "*** **** **** 0003",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 46,
+    "name": "Jyraia",
+    "account": {
+      "id": 53,
+      "number": "0004",
+      "agency": "1221",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 46,
+      "number": "*** **** **** 0004",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 47,
+    "name": "Fulano",
+    "account": {
+      "id": 54,
+      "number": "0000001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 47,
+      "number": "**** **** **** 9111",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 19,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 52,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Beltrano",
+    "account": {
+      "id": 55,
+      "number": "0000002-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 48,
+      "number": "**** **** **** 9112",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 20,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 53,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Ciclano",
+    "account": {
+      "id": 56,
+      "number": "0000003-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 49,
+      "number": "**** **** **** 9113",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 21,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 54,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Jade",
+    "account": {
+      "id": 57,
+      "number": "001",
+      "agency": "1",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 50,
+      "number": "1111",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 22,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 55,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "job",
+    "account": {
+      "id": 58,
+      "number": "002",
+      "agency": "1",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 51,
+      "number": "2222",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 23,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 56,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "kya",
+    "account": {
+      "id": 59,
+      "number": "003",
+      "agency": "1",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 52,
+      "number": "333",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 24,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 57,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "jod",
+    "account": {
+      "id": 60,
+      "number": "65461",
+      "agency": "12",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 53,
+      "number": "2416",
+      "limit": 25451
+    },
+    "features": [
+      {
+        "id": 25,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 58,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Juliana",
+    "account": {
+      "id": 61,
+      "number": "000145",
+      "agency": "2427",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 54,
+      "number": "**** **** **** 7711",
+      "limit": 3000
+    },
+    "features": [
+      {
+        "id": 26,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 59,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Mariana",
+    "account": {
+      "id": 62,
+      "number": "780145",
+      "agency": "2427",
+      "balance": 0,
+      "limit": 3000
+    },
+    "card": {
+      "id": 55,
+      "number": "**** **** **** 8911",
+      "limit": 5000
+    },
+    "features": [
+      {
+        "id": 27,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 60,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Matheus",
+    "account": {
+      "id": 63,
+      "number": "96845",
+      "agency": "2427",
+      "balance": 0,
+      "limit": 2000
+    },
+    "card": {
+      "id": 56,
+      "number": "**** **** **** 5578",
+      "limit": 3000
+    },
+    "features": [
+      {
+        "id": 28,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 61,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Guido",
+    "account": {
+      "id": 64,
+      "number": "11111",
+      "agency": "00001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 57,
+      "number": "**** **** **** 0001",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 29,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 62,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Edson",
+    "account": {
+      "id": 65,
+      "number": "00005-5",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 58,
+      "number": "**** **** **** 1010",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 30,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 67,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Marcos",
+    "account": {
+      "id": 66,
+      "number": "00008-8",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 59,
+      "number": "**** **** **** 2020",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 31,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 68,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Vagner",
+    "account": {
+      "id": 67,
+      "number": "00009-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 60,
+      "number": "**** **** **** 3030",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 32,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 69,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Jose",
+    "account": {
+      "id": 68,
+      "number": "001010-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 61,
+      "number": "**** **** **** 5050",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 62,
+    "name": "Maria",
+    "account": {
+      "id": 69,
+      "number": "002020-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 62,
+      "number": "**** **** **** 6060",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 63,
+    "name": "Vagner",
+    "account": {
+      "id": 70,
+      "number": "003030-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 63,
+      "number": "**** **** **** 7070",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 64,
+    "name": "Pipe",
+    "account": {
+      "id": 71,
+      "number": "00002-4",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 64,
+      "number": "1234 1234 1234 4444",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 65,
+    "name": "devteste-9997",
+    "account": {
+      "id": 72,
+      "number": "number-9997",
+      "agency": "ag-9997",
+      "balance": 1230,
+      "limit": 1230
+    },
+    "card": {
+      "id": 65,
+      "number": "number-card-9997",
+      "limit": 33330
+    },
+    "features": [
+      {
+        "id": 33,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 70,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "devteste-9998",
+    "account": {
+      "id": 73,
+      "number": "number-9998",
+      "agency": "ag-9998",
+      "balance": 1230,
+      "limit": 1230
+    },
+    "card": {
+      "id": 66,
+      "number": "number-card-9998",
+      "limit": 33330
+    },
+    "features": [
+      {
+        "id": 34,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 71,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "devteste-9999",
+    "account": {
+      "id": 74,
+      "number": "number-9999",
+      "agency": "ag-9999",
+      "balance": 1230,
+      "limit": 1230
+    },
+    "card": {
+      "id": 67,
+      "number": "number-card-9999",
+      "limit": 33330
+    },
+    "features": [
+      {
+        "id": 35,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 72,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Jálam",
+    "account": {
+      "id": 75,
+      "number": "74196-3",
+      "agency": "4196",
+      "balance": 0,
+      "limit": 99999
+    },
+    "card": {
+      "id": 68,
+      "number": "**** **** **** 1879",
+      "limit": 8000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 69,
+    "name": "Jão",
+    "account": {
+      "id": 76,
+      "number": "74196-4",
+      "agency": "4196",
+      "balance": 0,
+      "limit": 99999
+    },
+    "card": {
+      "id": 69,
+      "number": "**** **** **** 1880",
+      "limit": 8000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 70,
+    "name": "Xico",
+    "account": {
+      "id": 77,
+      "number": "74196-5",
+      "agency": "4196",
+      "balance": 0,
+      "limit": 99999
+    },
+    "card": {
+      "id": 70,
+      "number": "**** **** **** 1881",
+      "limit": 8000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 71,
+    "name": "pata",
+    "account": {
+      "id": 78,
+      "number": "321312",
+      "agency": "24510",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 71,
+      "number": "354610",
+      "limit": 200
+    },
+    "features": [
+      {
+        "id": 36,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 73,
+        "icon": "string",
+        "description": "string"
+      },
+      {
+        "id": 78,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista no seu futuro financeiro"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "peta",
+    "account": {
+      "id": 79,
+      "number": "35452",
+      "agency": "24214",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 72,
+      "number": "324510",
+      "limit": 200
+    },
+    "features": [
+      {
+        "id": 37,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 74,
+        "icon": "string",
+        "description": "string"
+      },
+      {
+        "id": 79,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Investir é cuidar do seu futuro. Não deixe para depois."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "pita",
+    "account": {
+      "id": 80,
+      "number": "33265222",
+      "agency": "2420214",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 73,
+      "number": "336551210",
+      "limit": 200
+    },
+    "features": [
+      {
+        "id": 38,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 75,
+        "icon": "string",
+        "description": "string"
+      },
+      {
+        "id": 80,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Invista no seu futuro financeiro!"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "pota",
+    "account": {
+      "id": 81,
+      "number": "3325888",
+      "agency": "2457554",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 74,
+      "number": "3111210",
+      "limit": 200
+    },
+    "features": [
+      {
+        "id": 39,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 76,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "puta",
+    "account": {
+      "id": 82,
+      "number": "9995888",
+      "agency": "9957554",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 75,
+      "number": "999210",
+      "limit": 200
+    },
+    "features": [
+      {
+        "id": 40,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 77,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Maria",
+    "account": {
+      "id": 83,
+      "number": "0093-1",
+      "agency": "2039",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 76,
+      "number": "**** **** **** 2111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 77,
+    "name": "Maria",
+    "account": {
+      "id": 84,
+      "number": "0193-1",
+      "agency": "2039",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 77,
+      "number": "**** **** **** 2311",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 78,
+    "name": "Roberta",
+    "account": {
+      "id": 85,
+      "number": "0103-1",
+      "agency": "2039",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 78,
+      "number": "**** **** **** 2411",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 79,
+    "name": "Carla",
+    "account": {
+      "id": 86,
+      "number": "0113-1",
+      "agency": "2039",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 79,
+      "number": "**** **** **** 2511",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 81,
+    "name": "Pyterson",
+    "account": {
+      "id": 88,
+      "number": "00001-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 80,
+      "number": "**** **** **** 555",
+      "limit": 500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 82,
+    "name": "Pip",
+    "account": {
+      "id": 89,
+      "number": "00002-3",
+      "agency": "0002",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 81,
+      "number": "**** **** **** 1110",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 83,
+    "name": "Pep",
+    "account": {
+      "id": 90,
+      "number": "00004-3",
+      "agency": "0003",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 82,
+      "number": "**** **** **** 3330",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 84,
+    "name": "Vitor Fontenle",
+    "account": {
+      "id": 91,
+      "number": "12546665",
+      "agency": "0216465",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 83,
+      "number": "1564 4758 4525 2555",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 41,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 81,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Vitor Fontenle2",
+    "account": {
+      "id": 92,
+      "number": "1254665",
+      "agency": "0216465",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 84,
+      "number": "1564 4758 4425 2555",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 42,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 82,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Vitor Fontenle3",
+    "account": {
+      "id": 93,
+      "number": "1214665",
+      "agency": "0216465",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 85,
+      "number": "1564 4758 4125 2555",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 43,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 83,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Pyterson Teste",
+    "account": {
+      "id": 94,
+      "number": "01000-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 86,
+      "number": "**** **** **** 1234",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 88,
+    "name": "Pip Teste",
+    "account": {
+      "id": 95,
+      "number": "01000-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 87,
+      "number": "**** **** **** 1235",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 89,
+    "name": "Pep Teste",
+    "account": {
+      "id": 96,
+      "number": "01000-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 88,
+      "number": "**** **** **** 1236",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 90,
+    "name": "Wilker",
+    "account": {
+      "id": 97,
+      "number": "000000000-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 5000000
+    },
+    "card": {
+      "id": 89,
+      "number": "**** **** **** 2101",
+      "limit": 0
+    },
+    "features": [
+      {
+        "id": 44,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 84,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Danillo",
+    "account": {
+      "id": 98,
+      "number": "00001-10",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 25
+    },
+    "card": {
+      "id": 90,
+      "number": "**** **** **** 0101",
+      "limit": 10
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 92,
+    "name": "Mark",
+    "account": {
+      "id": 99,
+      "number": "00001-11",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 250
+    },
+    "card": {
+      "id": 91,
+      "number": "**** **** **** 1121",
+      "limit": 100
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 93,
+    "name": "Tony",
+    "account": {
+      "id": 100,
+      "number": "00001-12",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 255
+    },
+    "card": {
+      "id": 92,
+      "number": "**** **** **** 1122",
+      "limit": 950
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 94,
+    "name": "Márcia",
+    "account": {
+      "id": 101,
+      "number": "00001-13",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 55
+    },
+    "card": {
+      "id": 93,
+      "number": "**** **** **** 1123",
+      "limit": 50
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 95,
+    "name": "Donizeti",
+    "account": {
+      "id": 102,
+      "number": "00001-14",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 555
+    },
+    "card": {
+      "id": 94,
+      "number": "**** **** **** 1124",
+      "limit": 505
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 96,
+    "name": "Gabriella",
+    "account": {
+      "id": 103,
+      "number": "00001-15",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 600
+    },
+    "card": {
+      "id": 95,
+      "number": "**** **** **** 1125",
+      "limit": 400
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 97,
+    "name": "Thaís",
+    "account": {
+      "id": 104,
+      "number": "00001-16",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 700
+    },
+    "card": {
+      "id": 96,
+      "number": "**** **** **** 1126",
+      "limit": 200
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 98,
+    "name": "Camylle",
+    "account": {
+      "id": 105,
+      "number": "00001-17",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 420
+    },
+    "card": {
+      "id": 97,
+      "number": "**** **** **** 1127",
+      "limit": 270
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 99,
+    "name": "Marcella",
+    "account": {
+      "id": 106,
+      "number": "00001-18",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 4200
+    },
+    "card": {
+      "id": 98,
+      "number": "**** **** **** 1128",
+      "limit": 2700
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 100,
+    "name": "Ítalo",
+    "account": {
+      "id": 107,
+      "number": "00001-19",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 200
+    },
+    "card": {
+      "id": 99,
+      "number": "**** **** **** 1129",
+      "limit": 700
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 101,
+    "name": "Douglas",
+    "account": {
+      "id": 108,
+      "number": "00001-20",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 100
+    },
+    "card": {
+      "id": 100,
+      "number": "**** **** **** 1130",
+      "limit": 600
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 102,
+    "name": "Kauã",
+    "account": {
+      "id": 109,
+      "number": "00001-21",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 210
+    },
+    "card": {
+      "id": 101,
+      "number": "**** **** **** 1131",
+      "limit": 650
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 103,
+    "name": "Neymar JR",
+    "account": {
+      "id": 110,
+      "number": "00001-22",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 2200
+    },
+    "card": {
+      "id": 102,
+      "number": "**** **** **** 1132",
+      "limit": 9900
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 104,
+    "name": "L.Messi",
+    "account": {
+      "id": 111,
+      "number": "00001-23",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 3300
+    },
+    "card": {
+      "id": 103,
+      "number": "**** **** **** 1133",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 105,
+    "name": "C.Ronaldo",
+    "account": {
+      "id": 112,
+      "number": "00001-24",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 5500
+    },
+    "card": {
+      "id": 104,
+      "number": "**** **** **** 1134",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 106,
+    "name": "Ronaldinho",
+    "account": {
+      "id": 113,
+      "number": "00001-25",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 950
+    },
+    "card": {
+      "id": 105,
+      "number": "**** **** **** 1135",
+      "limit": 580
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 107,
+    "name": "Linus",
+    "account": {
+      "id": 114,
+      "number": "00001-26",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 106,
+      "number": "**** **** **** 1136",
+      "limit": 980
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 108,
+    "name": "Bruna Marquezine",
+    "account": {
+      "id": 115,
+      "number": "00001-27",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 760
+    },
+    "card": {
+      "id": 107,
+      "number": "**** **** **** 1137",
+      "limit": 930
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 109,
+    "name": "Sueli",
+    "account": {
+      "id": 116,
+      "number": "00001-28",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 410
+    },
+    "card": {
+      "id": 108,
+      "number": "**** **** **** 1138",
+      "limit": 340
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 110,
+    "name": "Falvo",
+    "account": {
+      "id": 117,
+      "number": "00001-29",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 4110
+    },
+    "card": {
+      "id": 109,
+      "number": "**** **** **** 1139",
+      "limit": 3420
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 111,
+    "name": "Gustavo Guanabara",
+    "account": {
+      "id": 118,
+      "number": "00001-30",
+      "agency": "9999",
+      "balance": 0,
+      "limit": 3110
+    },
+    "card": {
+      "id": 110,
+      "number": "**** **** **** 1140",
+      "limit": 2420
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 113,
+    "name": "Laura Caixão",
+    "account": {
+      "id": 120,
+      "number": "00001-31",
+      "agency": "001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 111,
+      "number": "**** **** **** 4002",
+      "limit": 3000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 114,
+    "name": "Marcos",
+    "account": {
+      "id": 121,
+      "number": "111-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 112,
+      "number": "**** **** **** 9861",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 115,
+    "name": "Jorge",
+    "account": {
+      "id": 122,
+      "number": "323-3",
+      "agency": "0002",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 113,
+      "number": "**** **** **** 1232",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 118,
+    "name": "Marcio",
+    "account": {
+      "id": 124,
+      "number": "000001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 115,
+      "number": "*** *** *** 111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 119,
+    "name": "Pablo",
+    "account": {
+      "id": 125,
+      "number": "000022-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 116,
+      "number": "*** *** *** 222",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 120,
+    "name": "Joao",
+    "account": {
+      "id": 126,
+      "number": "0001-0",
+      "agency": "0011",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 117,
+      "number": "**** **** 1111 1111",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 121,
+    "name": "Carlos",
+    "account": {
+      "id": 127,
+      "number": "0011-2",
+      "agency": "0011",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 118,
+      "number": "**** **** 1111 2121",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 122,
+    "name": "Claudia",
+    "account": {
+      "id": 128,
+      "number": "0012-2",
+      "agency": "0011",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 119,
+      "number": "**** **** 1111 2222",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 123,
+    "name": "Fernando",
+    "account": {
+      "id": 129,
+      "number": "0022-2",
+      "agency": "0011",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 120,
+      "number": "**** **** 2121 2222",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 124,
+    "name": "Jose",
+    "account": {
+      "id": 130,
+      "number": "0022-3",
+      "agency": "0011",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 121,
+      "number": "**** **** 2222 2222",
+      "limit": 1500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 125,
+    "name": "Diego",
+    "account": {
+      "id": 131,
+      "number": "100001-1",
+      "agency": "1001-",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 122,
+      "number": "**** **** **** 7821",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 45,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 93,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Ingrid",
+    "account": {
+      "id": 133,
+      "number": "10022-1",
+      "agency": "1001",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 124,
+      "number": "**** **** **** 7891",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 47,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 95,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Olga",
+    "account": {
+      "id": 134,
+      "number": "10025-1",
+      "agency": "1001",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 125,
+      "number": "**** **** **** 7889",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 48,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 96,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Pablo",
+    "account": {
+      "id": 135,
+      "number": "00001-5",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 200
+    },
+    "card": {
+      "id": 126,
+      "number": "**** **** **** 1995",
+      "limit": 100
+    },
+    "features": [
+      {
+        "id": 49,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 97,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Marcio J",
+    "account": {
+      "id": 136,
+      "number": "00025-5",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 20
+    },
+    "card": {
+      "id": 127,
+      "number": "**** **** **** 2000",
+      "limit": 10000
+    },
+    "features": [
+      {
+        "id": 50,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 98,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Duquesa",
+    "account": {
+      "id": 137,
+      "number": "00045-5",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 200
+    },
+    "card": {
+      "id": 129,
+      "number": "**** **** **** 1024",
+      "limit": 1500
+    },
+    "features": [
+      {
+        "id": 51,
+        "icon": "string",
+        "description": "string"
+      }
+    ],
+    "news": [
+      {
+        "id": 99,
+        "icon": "string",
+        "description": "string"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Simulacro",
+    "account": {
+      "id": 139,
+      "number": "18452-0",
+      "agency": "3211",
+      "balance": 0,
+      "limit": 700
+    },
+    "card": {
+      "id": 130,
+      "number": "**** **** 1313 1313",
+      "limit": 1300
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 137,
+    "name": "Simulacro",
+    "account": {
+      "id": 140,
+      "number": "18455-0",
+      "agency": "3211",
+      "balance": 0,
+      "limit": 700
+    },
+    "card": {
+      "id": 131,
+      "number": "**** **13 1313 1313",
+      "limit": 1300
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 138,
+    "name": "Luis Inacio",
+    "account": {
+      "id": 141,
+      "number": "18413-0",
+      "agency": "3211",
+      "balance": 0,
+      "limit": 700
+    },
+    "card": {
+      "id": 132,
+      "number": "**** **** 1113 1313",
+      "limit": 1300
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 139,
+    "name": "Gabriel",
+    "account": {
+      "id": 142,
+      "number": "00036-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 133,
+      "number": "**** **** **** 1212",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 140,
+    "name": "Juca",
+    "account": {
+      "id": 143,
+      "number": "00047-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 134,
+      "number": "**** **** **** 8745",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 141,
+    "name": "Sabrina",
+    "account": {
+      "id": 144,
+      "number": "00085-3",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 135,
+      "number": "**** **** **** 8547",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 142,
+    "name": "gabriel",
+    "account": {
+      "id": 145,
+      "number": "00854-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 136,
+      "number": "**** **** **** 2485",
+      "limit": 500
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 143,
+    "name": "joao",
+    "account": {
+      "id": 146,
+      "number": "00957-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 137,
+      "number": "**** **** **** 2575",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 144,
+    "name": "sabrina",
+    "account": {
+      "id": 147,
+      "number": "00521-2",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 138,
+      "number": "**** **** **** 3255",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 145,
+    "name": "luffy",
+    "account": {
+      "id": 148,
+      "number": "00002-8",
+      "agency": "00001",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 139,
+      "number": "**** **** **** 5843",
+      "limit": 1
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 146,
+    "name": "zoro",
+    "account": {
+      "id": 149,
+      "number": "00005-8",
+      "agency": "00005",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 140,
+      "number": "**** **** **** 9706",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 147,
+    "name": "sanji",
+    "account": {
+      "id": 150,
+      "number": "00007-8",
+      "agency": "00003",
+      "balance": 0,
+      "limit": 0
+    },
+    "card": {
+      "id": 141,
+      "number": "**** **** **** 7103",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 148,
+    "name": "Giovanni",
+    "account": {
+      "id": 151,
+      "number": "6484-0",
+      "agency": "9498-001",
+      "balance": 0,
+      "limit": 984984
+    },
+    "card": {
+      "id": 142,
+      "number": "**** **** **** 9848",
+      "limit": 68498451
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 149,
+    "name": "Ageu",
+    "account": {
+      "id": 152,
+      "number": "6464-0",
+      "agency": "9654-002",
+      "balance": 0,
+      "limit": 99999999999
+    },
+    "card": {
+      "id": 143,
+      "number": "**** **** **** 6489",
+      "limit": 99999999999
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 150,
+    "name": "Roberto Carlos",
+    "account": {
+      "id": 153,
+      "number": "005321-1",
+      "agency": "0243",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 144,
+      "number": "3213 1234 4321 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 151,
+    "name": "Pedro Casemiro Leite",
+    "account": {
+      "id": 154,
+      "number": "005321-3",
+      "agency": "0343",
+      "balance": 0,
+      "limit": 5000
+    },
+    "card": {
+      "id": 145,
+      "number": "3243 1234 4321 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 152,
+    "name": "Rio Negro e Solimões",
+    "account": {
+      "id": 155,
+      "number": "005331-3",
+      "agency": "0353",
+      "balance": 0,
+      "limit": 5000
+    },
+    "card": {
+      "id": 146,
+      "number": "3243 1334 4321 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 154,
+    "name": "Pietro",
+    "account": {
+      "id": 156,
+      "number": "0001-2",
+      "agency": "012",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 148,
+      "number": "3541 4521 5642 2122",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 155,
+    "name": "Pietro",
+    "account": {
+      "id": 157,
+      "number": "0002-1",
+      "agency": "0021",
+      "balance": 0,
+      "limit": 2000
+    },
+    "card": {
+      "id": 149,
+      "number": "**** **** **** 9310",
+      "limit": 4000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 156,
+    "name": "Janaina",
+    "account": {
+      "id": 158,
+      "number": "0003-2",
+      "agency": "0021",
+      "balance": 0,
+      "limit": 1000
+    },
+    "card": {
+      "id": 150,
+      "number": "**** **** **** 2210",
+      "limit": 3000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 157,
+    "name": "Julinho",
+    "account": {
+      "id": 159,
+      "number": "0003-7",
+      "agency": "0021",
+      "balance": 0,
+      "limit": 1500
+    },
+    "card": {
+      "id": 151,
+      "number": "**** **** **** 6260",
+      "limit": 4250
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 158,
+    "name": "Mario",
+    "account": {
+      "id": 160,
+      "number": "00002-1",
+      "agency": "0002",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 152,
+      "number": "**** **** **** 1112",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 159,
+    "name": "Joel",
+    "account": {
+      "id": 161,
+      "number": "00003-1",
+      "agency": "0003",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 153,
+      "number": "**** **** **** 1113",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 160,
+    "name": "Juliana",
+    "account": {
+      "id": 162,
+      "number": "00004-1",
+      "agency": "0004",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 154,
+      "number": "**** **** **** 1114",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  }
+]
