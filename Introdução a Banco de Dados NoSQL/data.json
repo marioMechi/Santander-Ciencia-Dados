@@ -1,0 +1,12 @@
+{
+   "_id":1,
+   "nome":"Cabo Frio",
+   "descricao":"Cidade no litoral do Rio de Janeiro",
+   "localizacao":{
+      "type":"Point",
+      "coordinates":[
+         -22.880437,
+         -42.018923
+      ]
+   }
+}

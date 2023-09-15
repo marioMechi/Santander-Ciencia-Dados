@@ -1,0 +1,50 @@
+# COMANDOS UTILIZADOS NO MONGODB COMPASS
+#Procura todos com idade igual a 33 e nome Mario
+{$and:[{idade:{eq:33}},{nome:"Mario"}]}
+
+#Traz todos que não tem idade igual a 33
+{$and:[{idade:{$ne:33}}]}
+
+#Procura todos com idade igual a 33 ou nome Mario
+{$or:[{idade:{eq:33}},{nome:"Mario"}]}
+
+#Retorna todos os dados com nome igual a Rebeca e idade 29 ou com nome igual a Mario
+{$or:[{$and: [{idade:{eq:29}},{nome:"Rebeca"}]},{nome:"Mario"}]}
+
+#Retorna dados com idade maior de 18 anos
+{idade: {$gt:18}}
+
+#Retorna dados com idade maior ou igual a 30 anos
+{idade: {$gte:30}}
+
+#Retorna dados com idade diferente de 30 anos
+{idade: {$not:{$eq:30}}}
+
+#Retorna todos de idade 29 ou 33 anos
+{idade: {$in: [29,33]}}
+
+#Retorna todos  não tenha idade 29 ou 33 anos
+{idade: {$nin: [29,33]}}
+
+#Retorna todos  não tenha idade 29 ou 33 anos com projeção de nome apenas
+{idade: {$nin: [29,33]}}
+{nome:1}
+
+#Mesmo comando por linha de comando
+db.usuarios.find({idade: {$nin: [29,33]}},{nome:1});
+
+#Retorna todos  não tenha idade 29 ou 33 anos com projeção de nome apenas em ordem crescente
+{idade: {$nin: [29,33]}}
+{nome:1}
+{nome:1}
+
+#Retorna todos  não tenha idade 29 ou 33 anos com projeção de nome apenas em ordem decrescente
+{idade: {$nin: [29,33]}}
+{nome:1}
+{nome:-1}
+
+#Mesmo comando por linha de comando
+db.usuarios.find({idade: {$nin: [29,33]}},{nome:1}).sort({nome:-1});
+
+#Mesmo comando por linha de comando colocando limite de 1
+db.usuarios.find({idade: {$nin: [29,33]}},{nome:1}).sort({nome:-1}).limit(1);
